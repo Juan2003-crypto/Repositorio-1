@@ -54,3 +54,5 @@ var persona={
     lugardeNacimiento1: "Quevedo"
 }
 console.log(persona);
+
+//El cambio fue este mensaje como prueba 
